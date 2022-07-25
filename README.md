@@ -1,5 +1,10 @@
 # WarehouseApp
 
+This Angular app will interact with spring-warehouse-api to search the products by name and shows the results with pagination
+
+![Warehouse_App](https://user-images.githubusercontent.com/20318317/180660520-029c0737-3d71-4a65-866a-b710621eaa7f.jpg)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
 ## Development server
